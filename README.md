@@ -1,5 +1,8 @@
 ## Hi there. I'm Niyazi👋
 "Enthusiastic software testing student with a passion for technology. Constantly learning and eager to explore new challenges. Committed to improving software quality through rigorous testing and innovative solutions. 💻🔍"
+![Untitled](https://github.com/NiyaziPro/NiyaziPro/assets/157756281/4bef5a40-f96d-45ad-8ccb-d0b2d1a3bc0b)
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,java,idea,gmail,linkedin,instagram" />
