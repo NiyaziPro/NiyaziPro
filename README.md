@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Uploading image.png…]()
-
+"Enthusiastic software testing student with a passion for technology. Constantly learning and eager to explore new challenges. Committed to improving software quality through rigorous testing and innovative solutions. 💻🔍"
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,java,idea" />
