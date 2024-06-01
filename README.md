@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I'm Niyazi👋
 "Enthusiastic software testing student with a passion for technology. Constantly learning and eager to explore new challenges. Committed to improving software quality through rigorous testing and innovative solutions. 💻🔍"
 <p align="center">
   <a href="https://skillicons.dev">
