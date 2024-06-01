@@ -1,6 +1,7 @@
 ## Hi there. I'm Niyazi👋
 "Enthusiastic software testing student with a passion for technology. Constantly learning and eager to explore new challenges. Committed to improving software quality through rigorous testing and innovative solutions. 💻🔍"
-![Untitled1](https://github.com/NiyaziPro/NiyaziPro/assets/157756281/5feb0cd7-ef01-46fa-a227-f5e0f285dc48)
+![image](https://github.com/NiyaziPro/NiyaziPro/assets/157756281/a22df605-5760-48dd-8c29-c72fca4b2f38)
+
 
 
 
