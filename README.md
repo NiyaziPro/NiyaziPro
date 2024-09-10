@@ -8,7 +8,7 @@ I am a lifelong learner with a passion for technology and a deep curiosity that 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,java,selenium,git,github,bash,mysql,html,css,gmail,linkedin,discord,sublime&theme=light" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,java,selenium,maven,git,github,bash,postgres,html,css,gmail,linkedin,stackoverflow,discord,sublime&theme=light" />
   </a>
 </p>
 
