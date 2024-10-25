@@ -10,15 +10,19 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,java,hibernate,selenium,gherkin,postman,jenkins,maven,git,github,bash,postgres,js,html,css,nodejs,sublime,apple,gmail,linkedin,stackoverflow,discord,instagram&theme=light" />
   </a>
+  <br>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats" />
   </a>
+   <br>
   <a href="https://github-readme-stats.vercel.app/api?username=NiyaziPro&show_icons=true&theme=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=NiyaziPro&show_icons=true&theme=compact" />
   </a>
+   <br>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaziPro&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaziPro&layout=compact" />
   </a>
+   <br>
    <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   </a>
