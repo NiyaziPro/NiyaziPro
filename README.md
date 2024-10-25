@@ -10,7 +10,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,java,hibernate,selenium,gherkin,postman,jenkins,maven,git,github,bash,postgres,js,html,css,nodejs,sublime,apple,gmail,linkedin,stackoverflow,discord,instagram&theme=light" />
   </a>
+  <h2></h2>
+  </p>
   <br>
+  <p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats" />
   </a>
@@ -32,17 +35,11 @@
   </a>
 </p>
 
-
-
-
-
-
-
+<h2></h2>
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Done!+Check+out+my+projects!" alt="Typing SVG" />
 </p>
-
-
+<h2></h2>
 
 
 
