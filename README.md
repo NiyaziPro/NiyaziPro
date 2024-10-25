@@ -20,7 +20,16 @@ I am a lifelong learner with a passion for technology and a deep curiosity that 
   </a>
 </p>
 
- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/niyazi-cholak/)
+
+ 📫 How to reach me :[LinkedIn](https://www.linkedin.com/in/niyazi-cholak/)
+
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Done!+Check+out+my+projects!" alt="Typing SVG" />
+</p>
+
+
+
+
 
 
 
