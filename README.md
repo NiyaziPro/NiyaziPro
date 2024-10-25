@@ -11,6 +11,25 @@ I am a lifelong learner with a passion for technology and a deep curiosity that 
   </a>
 </p>
 
+ 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/niyazi-cholak/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats) ![Example User's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiyaziPro&show_icons=true&theme=radical)
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaziPro&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaziPro&layout=compact" />
+  </a>
+</p>
+
+
+
+
+
+ 
+
+
+
+
 <!--
 **NiyaziPro/NiyaziPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
