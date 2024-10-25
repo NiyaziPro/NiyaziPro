@@ -9,18 +9,18 @@ I am a lifelong learner with a passion for technology and a deep curiosity that 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,java,hibernate,selenium,gherkin,postman,jenkins,maven,git,github,bash,postgres,js,html,css,nodejs,sublime,apple,gmail,linkedin,stackoverflow,discord,instagram&theme=light" />
   </a>
-</p>
-
- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/niyazi-cholak/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats) ![Example User's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiyaziPro&show_icons=true&theme=radical)
-
-<p align="center">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=NiyaziPro&show_icons=true&theme=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=NiyaziPro&show_icons=true&theme=compact" />
+  </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaziPro&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaziPro&layout=compact" />
   </a>
 </p>
 
+ 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/niyazi-cholak/)
 
 
 
