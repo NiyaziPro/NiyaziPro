@@ -26,7 +26,14 @@
    <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   </a>
+  <br>
+   <a href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </a>
 </p>
+
+
+
 
 
 
