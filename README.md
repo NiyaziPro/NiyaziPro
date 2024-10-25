@@ -18,7 +18,11 @@ I am a lifelong learner with a passion for technology and a deep curiosity that 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaziPro&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyaziPro&layout=compact" />
   </a>
+   <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  </a>
 </p>
+
 
 
  📫 How to reach me :[LinkedIn](https://www.linkedin.com/in/niyazi-cholak/)
