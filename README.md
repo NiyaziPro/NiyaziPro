@@ -1,6 +1,6 @@
  <h1 align="center">Hi there. I'm Niyazi   👋🏻 <br>📚💻 🌍⚡🖥️⏳🔎💬📫</h1>
 <p>I am a lifelong learner with a passion for technology and a deep curiosity that drives me to explore new ideas and challenges. I thrive on problem-solving and have a keen interest in software testing, where I find satisfaction in ensuring quality and reliability. My journey is fueled by a commitment to continuous improvement, both personally and professionally. I'm someone who values creativity, innovation, and collaboration, always striving to grow and make a positive impact in everything I do. Whether it's through testing software, learning new skills, or embracing new opportunities, I'm dedicated to pushing boundaries and achieving excellence.</p>
-<h2> 📫 How to reach me : <a href="https://www.linkedin.com/in/niyazi-cholak/">LinkedIn</a></h2>
+<h2> 📫 How to reach me : <a href="https://www.linkedin.com/in/niyazi-cholak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a></h2> 
 <img src="https://github.com/NiyaziPro/NiyaziPro/assets/157756281/a22df605-5760-48dd-8c29-c72fca4b2f38"/>
 
 
