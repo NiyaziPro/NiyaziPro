@@ -14,10 +14,6 @@
   </p>
   <br>
   <p align="center">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiyaziPro&theme=radical)](https://git.io/streak-stats" />
-  </a>
-   <br>
   <a href="https://github-readme-stats.vercel.app/api?username=NiyaziPro&show_icons=true&theme=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=NiyaziPro&show_icons=true&theme=compact" />
   </a>
