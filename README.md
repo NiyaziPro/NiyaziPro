@@ -3,6 +3,7 @@
 <h2> 📫 How to reach me : <a href="https://www.linkedin.com/in/niyazi-cholak/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="LinkedIn logo" height="30" width="30" /></a>
 <a href="https://www.xing.com/profile/Niyazi_Cholak/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/889/889156.png" alt="Xing logo" height="30" width="30" /></a></h2> 
 <img src="https://github.com/NiyaziPro/NiyaziPro/assets/157756281/a22df605-5760-48dd-8c29-c72fca4b2f38"/>
+
  
 
 <h2 align="center">Languages and Tools :</h2>
@@ -10,6 +11,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,java,spring,hibernate,postgres,mongodb,selenium,gherkin,cypress,postman,jenkins,maven,git,github,githubactions,bash,html,css,nodejs,js,sublime,aws,docker,gmail,linkedin,stackoverflow,discord&theme=light" />
+   <img src="https://github.com/user-attachments/assets/8270e928-9ff7-4eef-af5b-fa7bc2030181"/>
   </a>
   <h2></h2>
   </p>
