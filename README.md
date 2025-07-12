@@ -1,5 +1,9 @@
  <h1 align="center">Hi there. I'm Niyazi Cholak 👋🏻 <br>📚💻 🌍⚡🖥️⏳🔎💬📫</h1>
-<p>I am a lifelong learner with a passion for technology and a deep curiosity that drives me to explore new ideas and challenges. I thrive on problem-solving and have a keen interest in software testing, where I find satisfaction in ensuring quality and reliability. My journey is fueled by a commitment to continuous improvement, both personally and professionally. I'm someone who values creativity, innovation, and collaboration, always striving to grow and make a positive impact in everything I do. Whether it's through testing software, learning new skills, or embracing new opportunities, I'm dedicated to pushing boundaries and achieving excellence.</p>
+<p>Curious by nature, developer by choice. I explore every layer of software — from frontend interfaces to backend logic, and from debugging code to testing systems for reliability. Rather than staying in a single lane, I believe in touching all sides of development to understand how everything connects.
+
+Currently expanding my skills in full-stack development and software testing, one project at a time. Whether it's learning a new framework, experimenting with a language, or contributing to open-source, I'm here to build, improve, and grow consistently.
+
+Every repo tells a part of this journey. Feel free to explore.</p>
 <h2> 📫 How to reach me : <a href="https://www.linkedin.com/in/niyazi-cholak/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="LinkedIn logo" height="30" width="30" /></a>
 <a href="https://www.xing.com/profile/Niyazi_Cholak/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/889/889156.png" alt="Xing logo" height="30" width="30" /></a></h2> 
 <img src="https://github.com/NiyaziPro/NiyaziPro/assets/157756281/a22df605-5760-48dd-8c29-c72fca4b2f38"/>
