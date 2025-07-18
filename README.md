@@ -1,4 +1,4 @@
- <h1 align="center">Hi there. I'm Niyazi Cholak 👋🏻 <br>📚💻 🌍⚡🖥️⏳🔎💬📫</h1>
+ <h1 align="center">Hi there. I'm Niyazi  👋🏻 <br>📚💻 🌍⚡🖥️⏳🔎💬📫</h1>
 <p>Curious by nature, developer by choice. I explore every layer of software — from frontend interfaces to backend logic, and from debugging code to testing systems for reliability. Rather than staying in a single lane, I believe in touching all sides of development to understand how everything connects.
 
 Currently expanding my skills in full-stack development and software testing, one project at a time. Whether it's learning a new framework, experimenting with a language, or contributing to open-source, I'm here to build, improve, and grow consistently.
